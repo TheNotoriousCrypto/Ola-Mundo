@@ -2,4 +2,4 @@
 Meu primeiro repositorio do curso em video git e github.
 
 fazendo alterações diretamente no site do github
-progredindo lek
+TESTE PARA VER SE TA FLUINDO
